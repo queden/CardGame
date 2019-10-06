@@ -1,7 +1,7 @@
 # CardGame
 Memory Game playable on the console
 # Intructions for running
-Download the runtime file in the CardGame/CardGame/bin/Release/netcoreapp2.1, choosing between Windows or Ubuntu, and find the correct runtime file (example: .exe for Windows). 
+Clone the repos and open the runtime file in the CardGame/CardGame/bin/Release/netcoreapp2.1, choosing between Windows or Ubuntu, and find the correct runtime file (example: .exe for Windows). 
 # Design Choices
 For this card game, I made a a Card class, a Board class, and a Card Types enumerator. 
 ## Card Class 
