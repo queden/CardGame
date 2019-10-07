@@ -169,7 +169,7 @@ class Board
         {
             Console.Write("Enter row of card to flip: ");
             row = ReadInt();
-            Console.Write("Enter column of card tp flip: ");
+            Console.Write("Enter column of card to flip: ");
             col = ReadInt();
             card = CalculateCard(row, col);
         }
